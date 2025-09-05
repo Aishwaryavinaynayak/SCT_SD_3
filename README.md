@@ -82,3 +82,6 @@ The process continues until the Sudoku is solved.
 ## Technologies Used
 
 Python 3,Backtracking Algorithm
+
+## Author
+Aishwarya Vinay Nayak https://www.linkedin.com/in/aishwarya-vinay-nayak-23ba39317/
