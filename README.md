@@ -78,3 +78,7 @@ Solved Sudoku:
 
 
 The process continues until the Sudoku is solved.
+
+## Technologies Used
+
+Python 3,Backtracking Algorithm
